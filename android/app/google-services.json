@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "432800643120",
+    "firebase_url": "https://kict-crowdfunding-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kict-crowdfunding",
+    "storage_bucket": "kict-crowdfunding.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432800643120:android:7e8e852281c5735b9d15f5",
+        "android_client_info": {
+          "package_name": "com.example.kict_crowdfunding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFWaRd81UBhR2fOUbWkwOg98Fu4vR_WLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
