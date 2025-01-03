@@ -1,3 +1,3 @@
-# kict_crowdfunding
+# KICT Mobile Crowdfunding Application
 
-A new Flutter project.
+The KICT Mobile Crowdfunding Platform project at IIUM aims to improve the crowdfunding scene. This project focuses on the inefficiencies in the present decentralised system, which limit the accessibility and visibility of projects that require funding. The project's goal is to streamline the crowdfunding process by developing a mobile application that will allow KICT students and staff to propose and support projects more easily. The application will use cutting-edge technologies to enhance the user experience and boost the likelihood of successful project funding.
